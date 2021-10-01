@@ -3878,13 +3878,14 @@
         "answer": "d"
     },
 {
- 	"id": 391,
+ 	"id": 392,
         "difficulty": 2 ,
-        "question": "Which is the smallest fish in world?",
-        "a": "Midget dwarfgoby",
-        "b": "dwarf minnow",
-        "c": "Gobiidae",
-        "d": "Stout infantfish",
-        "answer": "b"
+        "question": "Which is the highest mountain in world?",
+        "a": "Mount everst",
+        "b": "K2",
+        "c": "Kangchenjunga",
+        "d": "Lhotse",
+        "answer": "a"
     }
+
 ]
